@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Surfactant Dynamics from the Arnold Perspective"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper derives multiple partial differential equations that each 
+            govern fluid flow with additional surfactant dynamics. Techniques 
+            used include variational calculus.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'SIURO'
+paperurl: 'https://www.siam.org/Portals/0/Documents/S137814PDF.pdf?ver=2021-09-23-070035-370'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+This paper is about the number 1. The number 2 is left for future work. This 
+paper derives multiple partial differential equations that each govern fluid 
+flow with additional surfactant dynamics. Techniques used include variational 
+calculus. 

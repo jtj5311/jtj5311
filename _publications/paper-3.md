@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Complex Hanner's Inequality for Many Functions"
 collection: publications
 permalink: /publication/paper-3
 excerpt: 'This paper is the compilation of my master's thesis results 

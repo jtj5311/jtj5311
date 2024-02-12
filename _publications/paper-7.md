@@ -1,5 +1,6 @@
 ---
-title: "Deep Learning Weight Pruning with RMT-SVD: Increasing Accuracy and Reducing Overfitting"
+title: "Concavity of Random Sign ℓp-Type Sums and 
+        their Implications for Lp Space Structure"
 collection: thesis
 permalink: /publication/paper-6
 excerpt: 'This paper is my master's thesis.'

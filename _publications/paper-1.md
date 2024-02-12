@@ -7,7 +7,7 @@ excerpt: "This paper derives multiple partial differential equations that each
             used include variational calculus."
 date: 2021-01-12
 venue: 'SIURO'
-paperurl: 'https://www.siam.org/Portals/0/Documents/S137814PDF.pdf?ver=2021-09-23-070035-370'
+paperurl: 'https://www.siam.org/Portals/0/Documents/S137814PDF.pdf?ver=2021-09-23-070035-370' 
 ---
 In 1966, V. Arnold established an important connection between the incompressible Euler equations and a particular set of geodesic flows, using variational techniques to characterize the latter as solutions
 to the former. Motivated by his results, we investigate a series of similar PDEs characterizing constrained

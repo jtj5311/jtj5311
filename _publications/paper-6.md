@@ -4,7 +4,7 @@ collection: thesis
 permalink: /publication/paper-6
 excerpt: 'This paper is my master's thesis.'
 date: 2022-04-25
-paperurl: 'https://jtj5311.github.io/files/paper6.pdf'
+paperurl: 'https://jtj5311.github.io/files/paper6.pdf' 
 ---
 Motivated by a result by G. Schechtman which facilitated the computation of the
 p-concavity constant of Banach lattices that are the span of 1-unconditional basic sequences in

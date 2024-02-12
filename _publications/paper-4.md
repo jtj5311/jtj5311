@@ -1,15 +1,14 @@
 ---
-title: "Surfactant Dynami3cs from the Arnold Perspective"
+title: "Complex Hanner's Inequality for Many Functions"
 collection: publications
-permalink: /publication/paper-1
-excerpt: "This paper derives multiple partial differential equations that each 
-            govern fluid flow with3 additional surfactant dynamics. Techniques 
-            used include variational calculus."
-date: 2021-01-12
-venue: 'SIURO'
-paperurl: 'https://www.siam.org/Portals/0/Documents/S137814PDF.pdf?ver=2021-09-23-070035-370'
+permalink: /publication/paper-4
+excerpt: 'This paper is the compilation of my master's thesis results 
+            into a publication. The paper makes partial progress towards
+            an open question from the 1990s posted by Gideon Schechtman. '
+date: 2015-10-01
+venue: 'Israel Journal of Mathematics [to appear]'
+paperurl: 'https://arxiv.org/abs/2207.09122'
 ---
-In 1966, V. Arnold established an important connection between the incompressible Euler equations and a particular set of geodesic flows, using variational techniques to characterize the latter as solutions
-to the former. Motivated by his results, we investigate a series of similar PDEs characterizing constrained
-critical points of action functional3s, paying particular interest to those associated with surfactant dynamics. Starting with the Arnold functional, we introduce various complications, adding terms associated to
-potential energies, surface tension, and surfactant momentum to derive different PDEs.
+We establish Hanner's inequality for arbitrarily many functions in the setting where the Rademacher distribution is replaced with higher dimensional random vectors uniform on Euclidean spheres.
+
+[Download paper here](https://arxiv.org/abs/2207.09122)

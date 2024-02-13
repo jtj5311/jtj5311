@@ -12,7 +12,9 @@ and mathematics to better handle large systems of data. My current research
 is focused around taking medium to high dimensional data 
 generated from dynamical systems that lie on low dimensional (unknown) 
 manifolds and trying to numerically reverse engineer the equations 
-that governed the original system. In the past I worked on automatically 
+that governed the original system. 
+
+In the past I worked on automatically 
 compressing neural networks by decomposing them into smaller pieces that 
 require fewer parameters and yet still retain the majority of the information
 learned by the initial network (i.e., no substantive decrease in accuracy).

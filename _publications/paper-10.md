@@ -1,5 +1,5 @@
 ---
-title: "Surfactant Dynamics from the Arnold Perspective"
+title: "Complex Hanners Inequality for Many Functions"
 collection: publications
 permalink: /publication/paper-10
 excerpt: 'This paper is the compilation of my master's thesis results 

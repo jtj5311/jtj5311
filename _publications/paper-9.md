@@ -1,9 +1,9 @@
 ---
-title: "Concavity of Random Sign ℓp-Type Sums and their Implications for Lp Space Structure"
-collection: thesis
-permalink: /publication/paper-6
+title: "A"
+collection: publications
+permalink: /publication/paper-2
 excerpt: 'This paper is my master's thesis.'
-date: 2022-04-25
+date: 2022-04-5
 venue: 'SIURO'
 paperurl: 'https://jtj5311.github.io/files/paper6.pdf' 
 ---

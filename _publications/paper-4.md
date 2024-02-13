@@ -3,7 +3,8 @@ title: "Deep Learning Weight Pruning with RMT-SVD: Increasing Accuracy and Reduc
 collection: publications
 permalink: /publication/paper-4
 excerpt: 'This paper applies random matrix theory techniques to prune the weight
-            matrices of fully connected neural networks. \n
+            matrices of fully connected neural networks.
+            
             Arxiv Preprint'
 date: 2023-03-15
 paperurl: 'https://arxiv.org/abs/2303.08986' 

@@ -4,7 +4,8 @@ collection: publications
 permalink: /publication/paper-1
 excerpt: "This paper uses probability and counting techniques to derive
           central limit type theorems for a particular construction that is
-          a higher dimensional analog of Zeckendorf's decomposition.\n
+          a higher dimensional analog of Zeckendorf's decomposition.
+          
           Published in The Fibonacci Quarterly."
 date: 2019-6-25
 paperurl: 'https://arxiv.org/abs/1906.10645'

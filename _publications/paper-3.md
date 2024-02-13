@@ -1,8 +1,8 @@
 ---
 title: "Complex Hanner's Inequality for Many Functions"
 collection: publications
-permalink: /publication/paper-10
-excerpt: "This paper comprises the results of my master's thesis, edited for publication.
+permalink: /publication/paper-3
+excerpt: "This paper comprises the results of my master's thesis, edited for publication. \n
           To appear for publication at Israel Journal of Mathematics."
 date: 2022-07-19
 paperurl: 'https://arxiv.org/abs/2207.09122' 

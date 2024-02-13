@@ -1,7 +1,7 @@
 ---
 title: "Complex Hanner's Inequality for Many Functions"
 collection: publications
-permalink: /publication/paper-6
+permalink: /publication/paper-10
 excerpt: 'This paper is the compilation of my master's thesis results 
             into a publication. The paper makes partial progress towards
             an open question from the 1990s posted by Gideon Schechtman.'

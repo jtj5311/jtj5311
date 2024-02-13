@@ -11,4 +11,3 @@ In 1966, V. Arnold established an important connection between the incompressibl
 to the former. Motivated by his results, we investigate a series of similar PDEs characterizing constrained
 critical points of action functionals, paying particular interest to those associated with surfactant dynamics. Starting with the Arnold functional, we introduce various complications, adding terms associated to
 potential energies, surface tension, and surfactant momentum to derive different PDEs.
-[Download paper here](https://jtj5311.github.io/files/paper6.pdf)

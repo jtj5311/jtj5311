@@ -9,3 +9,6 @@ date: 2022-07-19
 paperurl: 'https://arxiv.org/abs/2207.09122' 
 ---
 We establish Hanner's inequality for arbitrarily many functions in the setting where the Rademacher distribution is replaced with higher dimensional random vectors uniform on Euclidean spheres.
+
+
+[Download paper here](https://arxiv.org/abs/2207.09122)

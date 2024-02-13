@@ -1,16 +1,15 @@
 ---
-title: "Concavity of Random Sign ℓp-Type Sums and 
-        their Implications for Lp Space Structure"
-collection: thesis
-permalink: /publication/paper-6
-excerpt: 'This paper is my master's thesis.'
-date: 2022-04-25
-paperurl: 'https://jtj5311.github.io/files/paper6.pdf' 
+title: "Surfactant Dynamics from the Arnold Perspective"
+collection: publications
+permalink: /publication/paper-1
+excerpt: "This paper derives multiple partial differential equations that each 
+            govern fluid flow with additional surfactant dynamics. Techniques 
+            used include variational calculus."
+date: 2021-01-12
+venue: 'SIURO'
+paperurl: 'https://www.siam.org/Portals/0/Documents/S137814PDF.pdf?ver=2021-09-23-070035-370' 
 ---
-Motivated by a result by G. Schechtman which facilitated the computation of the
-p-concavity constant of Banach lattices that are the span of 1-unconditional basic sequences in
-Lp([0,1]) for p > 2, we consider a probabilistic generalization which in a specific case would resolve
-the 2 < p < 3 case which has been open since Schechtman’s original paper. Our main novel result
-is showing that the expected value of the ℓ1/p norm where each element is weighted by a uniform
-random on [-1,1] is concave for all p > 2.
-[Download paper here](https://jtj5311.github.io/files/paper6.pdf)
+In 1966, V. Arnold established an important connection between the incompressible Euler equations and a particular set of geodesic flows, using variational techniques to characterize the latter as solutions
+to the former. Motivated by his results, we investigate a series of similar PDEs characterizing constrained
+critical points of action functionals, paying particular interest to those associated with surfactant dynamics. Starting with the Arnold functional, we introduce various complications, adding terms associated to
+potential energies, surface tension, and surfactant momentum to derive different PDEs.

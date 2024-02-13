@@ -1,10 +1,10 @@
 ---
-title: "Surfactant Dynamics from the Arnold Perspective"
+title: "Complex Hanner's Inequality for Many Functions"
 collection: publications
-permalink: /publication/paper-1
-excerpt: "This paper derives multiple partial differential equations that each 
-            govern fluid flow with additional surfactant dynamics. Techniques 
-            used include variational calculus."
-paperurl: 'https://arxiv.org/pdf/2207.09122.pdf' 
+permalink: /publication/paper-10
+excerpt: "This paper comprises the results of my master's thesis, edited for publication.
+          To appear for publication at Israel Journal of Mathematics."
+date: 2022-07-19
+paperurl: 'https://arxiv.org/abs/2207.09122' 
 ---
 We establish Hanner's inequality for arbitrarily many functions in the setting where the Rademacher distribution is replaced with higher dimensional random vectors uniform on Euclidean spheres.

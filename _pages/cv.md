@@ -22,6 +22,17 @@ Work experience
   * Pennsylvania State University
   * Duties included: Instructor of Record, see Teaching for more info
 
+* Fall 2023: Co-Leader of Real Analysis Qualifying Review Exam
+  * Pennsylvania State University
+  * Won competitive selection process to jointly lead weekly sessions to
+    prepare younger graduate students for the Real Analysis qualifying exam,
+    generally considered to be the most difficult qualifying exam in 
+    our program.
+  * Duties included: Designing review sessions, writing problem sheets
+    to teach and test important concepts, providing students with 1-1 guidance
+    in problem solving, and presenting solutions to particularly tricky
+    problems.
+
 * Fall 2023: Graduate Teaching Assistant for Math 230
   * Pennsylvania State University
   * Duties included: Instructor of Record, see Teaching for more info
@@ -71,9 +82,10 @@ Skills
 * Git
   * Basic familiarity with Git and Github from the command line.
 
-Honors
+Awards/Honors
 ======
 * University Graduate Fellowship, Spring 2023 - Spring 2024
+* Dr. John Randall Shuman Troxell Memorial Scholarship in Mathematics, Fall 2023
 * Jack and Eleanor Pettit Scholarship in Science, Fall 2023
 * Verne M. Willaman Distinguished Graduate Fellowships in Science, Fall 2022
 * Jack and Eleanor Pettit Scholarship in Science, Fall 2022

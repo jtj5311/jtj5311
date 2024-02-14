@@ -89,6 +89,7 @@ Awards/Honors
 * Jack and Eleanor Pettit Scholarship in Science, Fall 2023
 * Verne M. Willaman Distinguished Graduate Fellowships in Science, Fall 2022
 * Jack and Eleanor Pettit Scholarship in Science, Fall 2022
+* Graduate Fellowship, Carnegie Mellon University (Declined), Fall 2022
 * Science and Humanities Scholar, Carnegie Mellon University Sep 2018–May 2022 
 * University Honors, Carnegie Mellon University May 2022
 * College Honors, Carnegie Mellon University May 2022

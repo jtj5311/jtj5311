@@ -4,7 +4,7 @@ title: "Rigid Motion"
 permalink: /rigidmotion/
 ---
 
-### Visualization of Euler's Equations of Motion
+# Visualization of Euler's Equations of Motion
 
 This demo represents 100 simulated paths of Euler's equations of motion with
 random initial conditions.

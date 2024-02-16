@@ -2,6 +2,7 @@
 layout: page
 title: "Rigid Motion"
 permalink: /rigidmotion/
+author_profile: true
 ---
 
 # Visualization of Euler's Equations of Motion

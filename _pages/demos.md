@@ -2,6 +2,7 @@
 title: "Demos"
 layout: page
 permalink: /demos/
+author_profile: true
 ---
 # Demos
 1. Visualization of Euler’s equations of motion. Warning: the following link

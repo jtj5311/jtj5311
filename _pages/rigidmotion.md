@@ -1,8 +1,7 @@
 ---
-layout: page
 title: "Rigid Motion"
-permalink: /rigidmotion/
 author_profile: true
+permalink: /rigidmotion/
 ---
 
 # Visualization of Euler's Equations of Motion

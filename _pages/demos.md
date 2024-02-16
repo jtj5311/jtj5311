@@ -1,8 +1,7 @@
 ---
 title: "Demos"
-layout: page
-permalink: /demos/
 author_profile: true
+permalink: /demos/
 ---
 # Demos
 1. Visualization of Euler’s equations of motion. Warning: the following link
